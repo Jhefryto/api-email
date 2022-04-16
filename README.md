@@ -70,4 +70,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## License
 
+[Repositorio de Referencia](https://github.com/nest-modules/mailer/tree/master/sample/01-basic)
+
 Nest is [MIT licensed](LICENSE).
